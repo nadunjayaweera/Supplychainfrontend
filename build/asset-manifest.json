@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5c34072.css",
+    "main.js": "/static/js/main.9a266fbc.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/EMPLOYEE IMAGE 1.png": "/static/media/EMPLOYEE IMAGE 1.3d5d545056b8dbb05132.png",
+    "static/media/user 5.png": "/static/media/user 5.2b73ede77be42df1e949.png",
+    "static/media/Money 2 image 1.png": "/static/media/Money 2 image 1.f94986b5206cdfa6c4b3.png",
+    "static/media/personal_detail.png": "/static/media/personal_detail.75bda5734eaadb0258cb.png",
+    "static/media/erp_log.png": "/static/media/erp_log.7b6a31cc12fae760c530.png",
+    "static/media/profile.png": "/static/media/profile.5faf09a7795d28bf5a2b.png",
+    "static/media/training image 2.png": "/static/media/training image 2.20128e5902562d57e2bd.png",
+    "static/media/Work locations image 1.png": "/static/media/Work locations image 1.685efdc9e8db211d31ec.png",
+    "static/media/Salary image 2.png": "/static/media/Salary image 2.787e460174b6ba8109c3.png",
+    "static/media/Hierarchy image 2 1.png": "/static/media/Hierarchy image 2 1.0c1e37bfd9500e526bb1.png",
+    "index.html": "/index.html",
+    "main.f5c34072.css.map": "/static/css/main.f5c34072.css.map",
+    "main.9a266fbc.js.map": "/static/js/main.9a266fbc.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c34072.css",
+    "static/js/main.9a266fbc.js"
+  ]
+}
